@@ -12,14 +12,6 @@ venv/
 .env
 .venv
 
-# Données
-*.csv
-*.json
-*.pkl
-*.joblib
-*.npy
-*.zip
-*.md
 
 # Logs
 logs/
@@ -34,6 +26,3 @@ logs/
 # Système
 .DS_Store
 Thumbs.db
-
-# Model
-*.safetensors
