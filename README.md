@@ -1,6 +1,6 @@
 # Générateur de FAQ Professionnelle
 
-Ce projet est une application web développée avec Streamlit qui génère automatiquement une Foire Aux Questions (FAQ) professionnelle à partir d'un fichier CSV fourni par l'utilisateur. L'application utilise des modèles de traitement du langage naturel (NLP) pour regrouper les questions par thèmes pertinents et générer des réponses claires et concises.
+Ce projet est une application web développée avec Streamlit qui génère automatiquement une Foire Aux Questions (FAQ) à partir d'un fichier CSV fourni par l'utilisateur. L'application utilise des modèles de traitement du langage naturel (NLP) pour regrouper les questions par thèmes pertinents et générer des réponses claires et concises.
 
 ## Fonctionnalités
 
